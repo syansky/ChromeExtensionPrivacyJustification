@@ -6,7 +6,7 @@ Each extension has its own policy in a separate file for transparency and clarit
 ---
 
 ## Extensions Covered
-- Coretax Helper: Download Automator(./coretax_helper-download_automator.md)  
+- [Coretax Helper: Download Automator](./coretax_helper-download_automator.md)  
 
 (Links above point to each extension’s individual privacy policy file.)
 
