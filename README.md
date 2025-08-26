@@ -1,0 +1,2 @@
+# ChromeExtensionPrivacyJustification
+My Chrome Extension Privacy Justification
